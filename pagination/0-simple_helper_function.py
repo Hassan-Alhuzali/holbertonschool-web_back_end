@@ -3,6 +3,8 @@
 '''
 returns a tuple of start and end indexes for a given page and page size
 '''
+
+
 def index_range(page, page_size):
     '''
     Calculates the start and end indexes for a given page and page size
